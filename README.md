@@ -21,8 +21,8 @@ ________________________________________________________________________________
 
 # Makena Kong
 
-## Complete
+## Status: Complete
 
-## Compliation Instructions
+### Compliation Instructions:
 ### gcc -o piku piku.s 
 ### ./piku

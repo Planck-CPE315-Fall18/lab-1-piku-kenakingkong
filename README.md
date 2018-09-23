@@ -17,3 +17,13 @@ professional, and are easy to read. Use the
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
 
+
+
+#Makena Kong
+
+##Complete
+
+###Compliation Instructions
+
+gcc -o piku piku.s 
+./piku
